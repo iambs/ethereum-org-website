@@ -19,7 +19,7 @@ published: 2020-12-01
 
 这是有关使用 WebSocket 和 Alchemy 向以太坊区块链发出请求的入门级指南。
 
-## WebSocket 与 HTTP {#websockets-vs-http}
+## WebSocket 与 HTTP {#websockets   -vs-http}
 
 与 HTTP 不同的是，使用 WebSocket，您无需要需要特定信息时持续进行请求。 WebSocket 为您维护网络连接（如果操作正确）并侦听变化。
 
